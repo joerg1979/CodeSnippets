@@ -12,4 +12,4 @@ App is using [CakePHP](http://cakephp.org) 3.0. Framework
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
 
-MySQL Database-Dump located _database.sql_ located in __app/config/migrations-Folder__
+MySQL Database-Dump located _codesnippets.sql_ located in __app/config/migrations-Folder__
